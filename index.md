@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Benjamin Reyes and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Business Administration (Information Systems).
+This is my home page! My name is Benjamin Reyes and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Eletrical Engeneering.
 
 ## Computer Science Projects
 
