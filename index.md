@@ -4,13 +4,13 @@ This is my home page! My name is Benjamin Reyes and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/bmreyes25.
 
 ### CPSC 120
 
 * Lab 8
 
-  Lab 8 was an incredibly practical exercise for me because the logic of filtering out extreme outlier data points—like tossing the highest and lowest judge scores—felt highly applicable to the data smoothing techniques I think about when processing live financial API data for mobile trading applications. During this project, I learned how to safely and efficiently pass data to functions using constant references, specifically `const std::vector<double>&`, which prevents the unnecessary background copying of large datasets. Furthermore, I strengthened my ability to validate command-line arguments and perform precise floating-point arithmetic to compute the true mean average of the remaining valid elements.
+  Lab 8 was an incredibly practical exercise for me because the logic of filtering out extreme outlier data points like tossing the highest and lowest judge scores felt highly applicable to the data smoothing techniques I think about when processing live financial API data for mobile trading applications. During this project, I learned how to safely and efficiently pass data to functions using constant references, specifically `const std::vector<double>&`, which prevents the unnecessary background copying of large datasets. Furthermore, I strengthened my ability to validate command-line arguments and perform precise floating-point arithmetic to compute the true mean average of the remaining valid elements.
 
 * Lab 10
 
